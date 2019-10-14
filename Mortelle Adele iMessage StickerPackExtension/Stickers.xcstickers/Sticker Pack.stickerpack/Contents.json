@@ -1,0 +1,134 @@
+{
+  "stickers" : [
+    {
+      "filename" : "objet_text_001a_618px.sticker"
+    },
+    {
+      "filename" : "objet_text_002a_618px.sticker"
+    },
+    {
+      "filename" : "objet_text_004_618px.sticker"
+    },
+    {
+      "filename" : "objet_text_005_618px.sticker"
+    },
+    {
+      "filename" : "objet_text_006_618px.sticker"
+    },
+    {
+      "filename" : "ad001_618px.sticker"
+    },
+    {
+      "filename" : "ad002_618px.sticker"
+    },
+    {
+      "filename" : "ad003_618px.sticker"
+    },
+    {
+      "filename" : "ad004_618px.sticker"
+    },
+    {
+      "filename" : "ad005_618px.sticker"
+    },
+    {
+      "filename" : "ad006_618px.sticker"
+    },
+    {
+      "filename" : "ad007_618px.sticker"
+    },
+    {
+      "filename" : "ad008_618px.sticker"
+    },
+    {
+      "filename" : "ad009_618px.sticker"
+    },
+    {
+      "filename" : "ad010_618px.sticker"
+    },
+    {
+      "filename" : "ad011_618px.sticker"
+    },
+    {
+      "filename" : "ad012_618px.sticker"
+    },
+    {
+      "filename" : "ad013_618px.sticker"
+    },
+    {
+      "filename" : "Jade_001_618px.sticker"
+    },
+    {
+      "filename" : "Jade_002_618px.sticker"
+    },
+    {
+      "filename" : "Magnus_001_618px.sticker"
+    },
+    {
+      "filename" : "Magnus_002_618px.sticker"
+    },
+    {
+      "filename" : "objet_001_618px.sticker"
+    },
+    {
+      "filename" : "objet_002_618px.sticker"
+    },
+    {
+      "filename" : "T1_618px.sticker"
+    },
+    {
+      "filename" : "T2_618px.sticker"
+    },
+    {
+      "filename" : "T3_618px.sticker"
+    },
+    {
+      "filename" : "T4_618px.sticker"
+    },
+    {
+      "filename" : "T5_618px.sticker"
+    },
+    {
+      "filename" : "T6_618px.sticker"
+    },
+    {
+      "filename" : "T7_618px.sticker"
+    },
+    {
+      "filename" : "T8_618px.sticker"
+    },
+    {
+      "filename" : "T9_618px.sticker"
+    },
+    {
+      "filename" : "T10_618px.sticker"
+    },
+    {
+      "filename" : "T11_618px.sticker"
+    },
+    {
+      "filename" : "T12_618px.sticker"
+    },
+    {
+      "filename" : "T13_618px.sticker"
+    },
+    {
+      "filename" : "T14_618px.sticker"
+    },
+    {
+      "filename" : "T15_618px.sticker"
+    },
+    {
+      "filename" : "T16_618px.sticker"
+    },
+    {
+      "filename" : "T17_618px.sticker"
+    }
+  ],
+  "info" : {
+    "version" : 1,
+    "author" : "xcode"
+  },
+  "properties" : {
+    "grid-size" : "regular"
+  }
+}
