@@ -223,34 +223,40 @@
       "filename" : "T17_618px.sticker"
     },
     {
-      "filename" : "adele_berk_480.sticker"
+      "filename" : "adele_berk_anim.sticker"
     },
     {
-      "filename" : "adele_punchline_2_480.sticker"
+      "filename" : "adele_punchline_1_anim.sticker"
     },
     {
-      "filename" : "adele_punchline_3_480.sticker"
+      "filename" : "adele_punchline_2_anim.sticker"
     },
     {
-      "filename" : "adele_punchline_480.sticker"
+      "filename" : "adele_punchline_3_anim.sticker"
     },
     {
-      "filename" : "adele_serie_480.sticker"
+      "filename" : "adele_serie_anim.sticker"
     },
     {
-      "filename" : "comics_adele_480.sticker"
+      "filename" : "comics_adele_anim.sticker"
     },
     {
-      "filename" : "drama_comics_480.sticker"
+      "filename" : "drama_comics_anim.sticker"
     },
     {
-      "filename" : "la_classe_adele_480.sticker"
+      "filename" : "la_classe_adele_anim.sticker"
     },
     {
-      "filename" : "photo_adele_480.sticker"
+      "filename" : "non_adele_anim.sticker"
     },
     {
-      "filename" : "say_hello_morning_480.sticker"
+      "filename" : "photo_adele_anim.sticker"
+    },
+    {
+      "filename" : "say_hello_morning_anim.sticker"
+    },
+    {
+      "filename" : "ma_g_masque_03_anim.sticker"
     }
   ],
   "info" : {
